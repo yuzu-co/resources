@@ -1,0 +1,7 @@
+site_name: Yuzu resources
+pages:
+- [index.md, Index]
+- [magento.md, Magento]
+- [prestashop.md, Prestashop]
+- [bigcommerce.md, Bigcommerce]
+- [shopify.md, Shopify]
