@@ -5,3 +5,4 @@ pages:
 - [prestashop.md, Prestashop]
 - [bigcommerce.md, Bigcommerce]
 - [shopify.md, Shopify]
+theme: readthedocs
