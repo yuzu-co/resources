@@ -1,14 +1,17 @@
-## Overview
+Template
+========
 
 Yuzu provides to e-merchants a solution to reach real & active shoppers for less. With this extension, YUZU will be able to collect data and showcase your promotional offers.
 
 This extension allows you to fully use the Yuzu Platform.
 
-## Prerequisite
+Prerequisite
+------------ 
 
 Magento CE compatible 1.5.x to 1.9.x
 
-## Download extension
+Download extension
+------------------
 
 [Click here to download the latest version of Yuzu Plugin for Magento](plugins/magento/yuzu-1.0.1.tgz)
 
