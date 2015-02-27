@@ -31,7 +31,7 @@ Upload.
 
 #### Manuel Install
 
-* Extract the extension’s content on your computer and navigaate inside the extracted folder.
+* Extract the extension’s content on your computer and navigate inside the extracted folder.
 * Use your FTP client to upload the contents of the extension on your remote store (with the same folder tree).
 * Connect to Magento Admin Panel.
 * Clear the cache: go to System > Cache Management. Clear the store cache.
