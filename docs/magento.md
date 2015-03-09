@@ -10,32 +10,15 @@ Magento CE compatible 1.5.x to 1.9.x
 
 ## Download extension
 
-[Click here to download the latest version of Yuzu Plugin for Magento](plugins/magento/yuzu-1.0.1.tgz)
+[Click here to download the latest version of Yuzu Plugin for Magento](http://www.magentocommerce.com/magento-connect/yuzu.html)
 
 ## Installation
 
-There are two ways to install this Magento Extension: **Magento Connect** or **Manual Install**.
-
 #### Magento Connect Install
 
-* In your Magento Admin Panel go to System > Magento Connect > Magento Connect Manager.
-* Use your admin account to login again.
-* In “Direct package file upload” section, upload your yuzu-x.x.x.tgz file and click to
-Upload.
-
-![Step 1](img/magento-1.png)
-
-* The extension will be installed automatically.
-* Clear the cache: go to System > Cache Management. Clear the store cache.
-* Re-login: Log out and log back into Magento Admin Panel.
-
-#### Manuel Install
-
-* Extract the extension’s content on your computer and navigate inside the extracted folder.
-* Use your FTP client to upload the contents of the extension on your remote store (with the same folder tree).
-* Connect to Magento Admin Panel.
-* Clear the cache: go to System > Cache Management. Clear the store cache.
-* Re-login: Log out and log back into Magento Admin Panel.
+* Go on [Magento Connect](http://www.magentocommerce.com/magento-connect/yuzu.html) and get Extension Key.
+* Navigate to your Magento Admin Panel and select Manage Extension under the System Menu
+* After logging in with your Admin login, paste in the extension key you copied and click the “Install” button.
 
 ## Configuration
 
