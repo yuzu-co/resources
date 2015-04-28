@@ -3,6 +3,7 @@ pages:
 - [index.md, Index]
 - [magento.md, Magento]
 - [prestashop.md, Prestashop]
+- [woocommerce.md, Woocommerce]
 - [bigcommerce.md, Bigcommerce]
 - [shopify.md, Shopify]
 theme: readthedocs
