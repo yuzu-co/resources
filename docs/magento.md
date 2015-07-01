@@ -1,6 +1,6 @@
 ## Overview
 
-Yuzu provides to e-merchants a solution to reach real & active shoppers for less. With this extension, YUZU will be able to collect data and showcase your promotional offers.
+Yuzu provides to e-merchants solutions to improve their profitability. With this extension, YUZU will be able to collect data and showcase your promotional offers.
 
 This extension allows you to fully use the Yuzu Platform.
 
