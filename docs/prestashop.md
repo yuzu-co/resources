@@ -45,3 +45,7 @@ Log in to your PrestaShop Admin Panel and install the module:
 * **Display offers in order detail**: If “Yes”, Yuzu Offers will be displayed in order detail page. 
 * **Display offers in checkout success**: If “Yes”, Yuzu Offers will be displayed in checkout success page.
 * **CSS selector: add to cart**: ONLY FOR DEVELOPER — Css selector for the Add to cart event on product pages.
+
+## Support
+
+If you need help, [contact us](mailto:prestashop@yuzu.co).
