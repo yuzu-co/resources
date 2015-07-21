@@ -1,9 +1,11 @@
 site_name: Yuzu resources
+repo_url: https://github.com/yuzu-co/resources
+site_author: Yuzu
 pages:
-- [index.md, Index]
-- [magento.md, Magento]
-- [prestashop.md, Prestashop]
-- [woocommerce.md, Woocommerce]
-- [bigcommerce.md, Bigcommerce]
-- [shopify.md, Shopify]
+- 'Index': 'index.md'
+- 'Magento': 'magento.md'
+- 'Prestashop': 'prestashop.md'
+- 'Woocommerce': 'woocommerce.md'
+- 'Bigcommerce': 'bigcommerce.md'
+- 'Shopify': 'shopify.md'
 theme: readthedocs
