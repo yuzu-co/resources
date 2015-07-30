@@ -10,7 +10,7 @@ Compatible Prestashop 1.4.x to 1.6.x
 
 ## Download extension
 
-[Click here to download the latest version of Yuzu Plugin for Prestashop](plugins/prestashop/yuzu-latest.zip)
+[Click here to download the latest version of Yuzu Plugin for Prestashop](http://www.yuzu.co/plugin/prestashop/yuzu-latest.zip)
 
 ## Update your module
 
